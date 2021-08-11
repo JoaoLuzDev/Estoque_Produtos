@@ -10,7 +10,7 @@ namespace Estoque_Produtos
             Produto Prod;
             Prod = new Produto();
 
-            Console.WriteLine(" Ente com os dados do produto: ");
+            Console.WriteLine(" Ente com os dados do produto: "); // teste
             Console.WriteLine(" Nome: ");
             Prod.Nome = Console.ReadLine();
             
